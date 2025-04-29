@@ -87,7 +87,7 @@ mvn spring-boot:run
 🧩 Frontend-ready integration with HTML/JS
 
 ## ✍️ Author
-**Aman Prajapati*
+**Aman Prajapati**
 
 📬 **Don't forget to reach out if you have any questions or suggestions!**  
 Feel free to open an issue or contact me via [akpgx7@gmail.com](mailto:akpgx7@gmail.com).
